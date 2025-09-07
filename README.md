@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Some projects: 
-[Motorized Raspberry Pi Camera + Web App:] (https://github.com/LightsCameraHarvest/Vertical-Camera-System.git)
-[Automated Water Sampler] (https://github.com/CurrentCrew/Water-Sampling-Device.git)
-[Wind Tunnel Controls] (https://github.com/helenaw041/WindTunnel)
-
+[Motorized Raspberry Pi Camera + Web App:] (https://github.com/LightsCameraHarvest/Vertical-Camera-System.git)  
+[Automated Water Sampler] (https://github.com/CurrentCrew/Water-Sampling-Device.git)  
+[Wind Tunnel Controls] (https://github.com/helenaw041/WindTunnel)  
+ 
 
