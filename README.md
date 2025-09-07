@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Helena! 👋
 
 <!--
 **helenaw041/helenaw041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Some projects: 
+[Motorized Raspberry Pi Camera + Web App:] (https://github.com/LightsCameraHarvest/Vertical-Camera-System.git)
+[Automated Water Sampler] (https://github.com/CurrentCrew/Water-Sampling-Device.git)
+[Wind Tunnel Controls] (https://github.com/helenaw041/WindTunnel)
+
+
