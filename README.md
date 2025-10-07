@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
+These are some current projects I'm working on: 
+[Wind Tunnel Controls System and UI](https://github.com/helenaw041/WindTunnel)
+[2"x2" User Controlled Sequencer PCB!](https://github.com/helenaw041/ELEC-240-PCBs/tree/main/No%20MCU%20Sequencer)
 
