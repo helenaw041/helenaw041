@@ -25,6 +25,6 @@ VERILOG/FPGA
 [16-bit Processor](https://github.com/helenaw041/Digital-Logic-Design/tree/main/16%20Bit%20Processor) (*in progress)  
 [Seven Segment Display + Bitwise Operations and Parity Checker](https://github.com/helenaw041/Digital-Logic-Design/blob/main/FPGA%20Report.pdf)  
 
-PCBs
+PCBs  
 [2"x2" User Controlled Sequencer PCB!](https://github.com/helenaw041/ELEC-240-PCBs/tree/main/No%20MCU%20Sequencer)  
 [EDES301 ClockBuddy PCB](https://github.com/helenaw041/EDES301/tree/master/project_02)  
