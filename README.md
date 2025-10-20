@@ -20,6 +20,7 @@ These are some current/past projects I'm working on!
 EMBEDDED  
 [Wind Tunnel Controls System](https://github.com/helenaw041/WindTunnel) (*in progress)  
 [Autonomous Water Sampler](https://github.com/CurrentCrew/Water-Sampling-Device/blob/main/POSTER%20SUMMARY_Autonomous%20Water%20Sampler.pdf)  
+[Motorized Inspection Camera](https://github.com/LightsCameraHarvest/Vertical-Camera-System/blob/main/POSTER%20SUMMARY_Motorized%20Camera%20System.pdf)
 
 VERILOG/FPGA  
 [16-bit Processor](https://github.com/helenaw041/Digital-Logic-Design/tree/main/16%20Bit%20Processor) (*in progress)  
