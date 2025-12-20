@@ -23,7 +23,7 @@ EMBEDDED
 [Motorized Inspection Camera](https://github.com/LightsCameraHarvest/Vertical-Camera-System/blob/main/POSTER%20SUMMARY_Motorized%20Camera%20System.pdf)
 
 VERILOG/FPGA  
-[16-bit Processor](https://github.com/helenaw041/Digital-Logic-Design/tree/main/16%20Bit%20Processor) (*in progress)  
+[16-bit Single-Cycle Processor](https://github.com/helenaw041/Digital-Logic-Design/tree/main/16%20Bit%20Processor) (pipeline later?)  
 [Seven Segment Display + Bitwise Operations and Parity Checker](https://github.com/helenaw041/Digital-Logic-Design/tree/main/Logic%20Unit%20With%20Seven-Segment%20Display)  
 
 PCBs  
