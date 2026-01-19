@@ -24,7 +24,7 @@ EMBEDDED
 
 VERILOG/FPGA  
 [16-bit Single-Cycle Processor](https://github.com/helenaw041/Digital-Logic-Design/tree/main/16%20Bit%20Processor) (pipeline later?)  
-[DLX Single-Cycle Processor]
+[DLX Single-Cycle Processor] 
 [Seven Segment Display + Bitwise Operations and Parity Checker](https://github.com/helenaw041/Digital-Logic-Design/tree/main/Logic%20Unit%20With%20Seven-Segment%20Display)  
 
 PCBs  
