@@ -28,5 +28,6 @@ VERILOG/FPGA
 [Seven Segment Display + Bitwise Operations and Parity Checker](https://github.com/helenaw041/Digital-Logic-Design/tree/main/Logic%20Unit%20With%20Seven-Segment%20Display)  
 
 PCBs  
+Ultrasonic Phased Array
 [2"x2" User Controlled Sequencer PCB! (No MCU)](https://github.com/helenaw041/ELEC-240-PCBs/tree/main/No%20MCU%20Sequencer)  
 [EDES301 ClockBuddy PCB](https://github.com/helenaw041/EDES301/tree/master/project_02)  
