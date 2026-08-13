@@ -23,7 +23,9 @@ EMBEDDED
 [Motorized Inspection Camera](https://github.com/LightsCameraHarvest/Vertical-Camera-System/blob/main/POSTER%20SUMMARY_Motorized%20Camera%20System.pdf)
 
 VERILOG/FPGA  
+
 [Out-of-Order Processor with Scoreboard, Rename, Reorder, Cache Controller]  
+
 [DLX Single-Cycle, Multi-Cycle, and 5-Stage Pipelined Processor]  
 [16-bit Single-Cycle Processor (Synthesizable)](https://github.com/helenaw041/Digital-Logic-Design/tree/main/16%20Bit%20Processor)   
 [Seven Segment Display + Bitwise Operations and Parity Checker](https://github.com/helenaw041/Digital-Logic-Design/tree/main/Logic%20Unit%20With%20Seven-Segment%20Display)  
