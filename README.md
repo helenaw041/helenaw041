@@ -24,7 +24,7 @@ EMBEDDED
 
 VERILOG/FPGA  
 
-[Out-of-Order Processor with Scoreboard, Rename, Reorder, Cache Controller]  
+[ with Scoreboard, Rename, Reorder, Cache Controller]  
 
 [DLX Single-Cycle, Multi-Cycle, and 5-Stage Pipelined Processor]  
 [16-bit Single-Cycle Processor (Synthesizable)](https://github.com/helenaw041/Digital-Logic-Design/tree/main/16%20Bit%20Processor)   
